@@ -5,4 +5,4 @@
  [HBO Recycling Program](http://zgrossbart.github.io/hborecycling) visualization. The bubbleChart was modified from a 
  [Block](https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a).
  
- For more information, see the [Wiki](https://github.swarthmore.edu/SPEED/END-Visualization-Up-To-Date/wiki).
+ For more information, see the [Wiki](https://github.com/Swarthmore/end-epigraphs-visualization/wiki).
